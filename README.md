@@ -175,7 +175,10 @@ This project is an independent educational and portfolio project created for lea
 
 Frontend Developer | React Enthusiast | Creative Web Development Learner
 
-- LinkedIn: [https://www.linkedin.com/in/pranita-zalli/]
+## Contact
+
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/pranita-zalli/)** for
+collaboration, feedback, or opportunities.
 
 ---
 
