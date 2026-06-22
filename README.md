@@ -7,9 +7,11 @@ Inspired by the design language and motion principles of Thirtysixstudio, this p
 The goal was not to create an exact replica, but to study and implement modern web design techniques while adding my own frontend development approach and animation workflows.
 ---
 
-## 🚀 Live Demo
+## 🎥 Project Demo
 
-🎥 **Demo Video:** [https://drive.google.com/file/d/1PJdNPMSr9NGvoK0jEXBcdar_IQfDepUe/view?usp=sharing]
+Watch the complete project demonstration here:
+
+[▶ Watch Demo Video](https://drive.google.com/file/d/1PJdNPMSr9NGvoK0jEXBcdar_IQfDepUe/view?usp=sharing)
 
 ---
 
@@ -17,11 +19,11 @@ The goal was not to create an exact replica, but to study and implement modern w
 
 ### Light Theme
 
-![Light Theme](.src/assets/light-theme.png)
+![Light Theme](./src/assets/light-theme.png)
 
 ### Red Theme
 
-![Red Theme](.src/assets/red-theme.png)
+![Red Theme](./src/assets/red-theme.png)
 
 ---
 
